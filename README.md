@@ -1,1 +1,2 @@
 # odin-recipes
+This project is meant to be a collection of recipes with links to webpages for each individual recipe, and it's meant to showcase what i learned from the lessons starting from the git introduction up to this project, such as creating the boilerplate of an html document, putting links with the <a> tag, putting <img> tags with their sources, creating unordered and ordered lists, nesting, etc. Along with directory navigation, and file and directory creation, staging files, making and pushing commits (also how to make a useful commit hopefully lol).
