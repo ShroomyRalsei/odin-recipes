@@ -15,15 +15,20 @@ figure {
 }
 h1, h2 {
     font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
 }
 figcaption {
     font-size:2em;
+}
+figcaption, p, h1, h2, li {
+    color:white;
+    opacity:0.6;
 }
 .main-container {
     width:80%;
 }
 .info-container {
-    background-color:grey;
+    background-color:darkblue;
     padding-top:20px;
 }
 .title-container{
