@@ -44,3 +44,15 @@ p, li {
     text-align:justify;
     margin: 1em 20px;
 }
+.index-ul li {
+    font-size:3em;
+    list-style-type:none;
+    text-align:center;
+}
+a {
+    color:blue;
+}
+a:hover {
+    text-decoration:none;
+    color:red;
+}
