@@ -1,6 +1,9 @@
 * {
     box-sizing:border-box;
 }
+body {
+    background-color:grey;
+}
 figcaption, p, li {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
