@@ -32,7 +32,7 @@ figcaption, p, h1, h2, li {
 }
 .info-container {
     background-color:darkblue;
-    padding-top:20px;
+    padding:20px 0;
 }
 .title-container{
     height:100px;
